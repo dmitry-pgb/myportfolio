@@ -8,7 +8,6 @@ import py from "../assets/icons/skills-icon/python.svg";
 import react from "../assets/icons/skills-icon/react-js.svg";
 import tailwind from "../assets/icons/skills-icon/tailwindcss.svg";
 import solidity from "../assets/icons/skills-icon/solidity.svg";
-import AI from "../assets/icons/skills-icon/ai.svg";
 import rust from "../assets/icons/skills-icon/rust.svg";
 import go from "../assets/icons/skills-icon/go.svg";
 import haskell from "../assets/icons/skills-icon/haskell.svg";
