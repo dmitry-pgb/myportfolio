@@ -23,45 +23,7 @@ export const Footer = () => {
             Blog
           </a>
         </div>
-        <div className="icons w-full flex justify-center mt-5 items-center gap-5">
-          <div className="icon">
-            <a
-              className=""
-              href="https://github.com/IrfanNaikwade28"
-              target="_blank"
-            >
-              <img
-                className="cursor-pointer hover:scale-105"
-                src={github}
-                alt=""
-              />
-            </a>
-          </div>
-          <div className="icon">
-            <a
-              className=""
-              href="https://www.linkedin.com/in/irfan-naikwade/"
-              target="_blank"
-            >
-              <img
-                className="cursor-pointer hover:scale-105"
-                src={linkedin}
-                alt=""
-              />
-            </a>
-          </div>
-          <a
-            href="https://www.chess.com/member/irfannaikwade28"
-            target="_blank"
-            className="icon"
-          >
-            <img
-              className="cursor-pointer hover:scale-105"
-              src={chess}
-              alt=""
-            />
-          </a>
-        </div>
+
         <div className="text-white font-extralight text-xs text-center my-5">
           <div className="title">
             ©2025 Irfan Naikwade. All rights reserved.
