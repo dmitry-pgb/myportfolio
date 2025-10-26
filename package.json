@@ -1,0 +1,49 @@
+{
+  "name": "irfan-dev",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "start": "node api/server.js"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.5.0",
+    "chart.js": "^4.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "framer-motion": "^11.17.0",
+    "googleapis": "^144.0.0",
+    "motion": "^11.16.0",
+    "nodemailer": "^6.9.16",
+    "nodemon": "^3.1.9",
+    "os": "^0.1.2",
+    "react": "^18.3.1",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18.3.1",
+    "react-intersection-observer": "^9.14.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.17.0",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "@vitejs/plugin-react": "^4.3.4",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^9.17.0",
+    "eslint-plugin-react": "^7.37.2",
+    "eslint-plugin-react-hooks": "^5.0.0",
+    "eslint-plugin-react-refresh": "^0.4.16",
+    "globals": "^15.14.0",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.17",
+    "vite": "^6.0.5"
+  },
+  "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
+  "main": "eslint.config.js",
+  "author": "",
+  "license": "ISC"
+}

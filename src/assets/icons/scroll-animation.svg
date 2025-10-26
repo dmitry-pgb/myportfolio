@@ -1,0 +1,19 @@
+<svg width="50" height="100" viewBox="0 0 50 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background rectangle -->
+  <rect x="1.5" y="1.5" width="47" height="97" rx="23.5" stroke="white" stroke-width="3"/>
+
+  <!-- Circle that moves up and down -->
+  <rect x="10" y="13" width="30" height="30" rx="15" fill="white">
+    <!-- Animation of the circle moving vertically -->
+    <animateTransform 
+      attributeName="transform" 
+      attributeType="XML" 
+      type="translate" 
+      from="0,0" 
+      to="0,50" 
+      dur="1s" 
+      keyTimes="0;0.5;1" 
+      values="0,0;0,45;0,0" 
+      repeatCount="indefinite"/>
+  </rect>
+</svg>
