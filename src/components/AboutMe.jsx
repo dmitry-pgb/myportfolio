@@ -15,6 +15,7 @@ import foundry from "../assets/icons/skills-icon/foundry.png";
 import ipfs from "../assets/icons/skills-icon/IPFS.svg";
 import vue from "../assets/icons/skills-icon/vue.svg";
 import fastapi from "../assets/icons/skills-icon/FastApi.svg";
+import AI from "../assets/icons/skills-icon/AI.svg";
 export const AboutMe = () => {
   const skillIcons = [ react,next,vue,  solidity, AI, rust, go, haskell,foundry, ipfs,  fastapi,node,md,py, tailwind,];
   return (
