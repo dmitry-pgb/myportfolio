@@ -51,7 +51,7 @@ export const Projects = {
       techStack: [{ icon: solidity, name: 'Solidity' }, { icon: next, name: 'Next.js' }, { icon: node, name: 'Node.js' }, { icon: ipfs, name: 'IPFS' }],
       reportLink: "",
     },
-    githubLink: "http://github.com/dmitry-pgb",
+    githubLink: "https://github.com/0xNaokiDev",
     websiteLink: "https://dapplooker.com/",
   },
   ClinicLink: {
@@ -64,7 +64,7 @@ export const Projects = {
       techStack: [{ icon: md, name: 'MongoDB' }, { icon: node, name: 'Node.js' }, { icon: react, name: 'React' }, { icon: tailwind, name: 'Tailwind CSS' }, { icon: js, name: 'JavaScript' }],
       reportLink: "", // add report link if available
     },
-    githubLink: "http://github.com/dmitry-pgb",
+    githubLink: "https://github.com/0xNaokiDev",
     websiteLink: "https://www.towns.com/",
   },
   Insightify: {
@@ -78,7 +78,7 @@ It allows users to create and deploy their own meme tokens with minimal technica
       techStack: [{ icon: react, name: 'React' }, { icon: tailwind, name: 'Tailwind CSS' }, { icon: py, name: 'Python' }, { icon: django, name: 'Django' }, { icon: ml, name: 'Machine Learning' }],
       reportLink: "",
     },
-    githubLink: "http://github.com/dmitry-pgb",
+    githubLink: "https://github.com/0xNaokiDev",
     websiteLink: "https://sunpump.meme",
   },
   AriseScholar: {
@@ -91,7 +91,7 @@ It allows users to create and deploy their own meme tokens with minimal technica
       techStack: [{ icon: react, name: 'React' }, { icon: tailwind, name: 'Tailwind CSS' }, { icon: django, name: 'Django' }, { icon: py, name: 'Python' }],
       reportLink: "", // add if you have a report or demo link
     },
-    githubLink: "http://github.com/dmitry-pgb",
+    githubLink: "https://github.com/0xNaokiDev",
     websiteLink: "https://swoop.exchange/",
   },
   MetaShield: {
@@ -106,7 +106,7 @@ It allows users to create and deploy their own meme tokens with minimal technica
       techStack: [{ icon: py, name: 'Python' }, { icon: django, name: 'Django' }, { icon: react, name: 'React' }, { icon: tailwind, name: 'Tailwind CSS' }, { icon: ml, name: 'Machine Learning' }],
       reportLink: "",
     },
-    githubLink: "http://github.com/dmitry-pgb",
+    githubLink: "https://github.com/0xNaokiDev",
     websiteLink: "https://metashield.example.com",
   },
   qzwz: {
@@ -119,7 +119,7 @@ It allows users to create and deploy their own meme tokens with minimal technica
       techStack: [{ icon: php, name: 'PHP' }, { icon: html, name: 'HTML' }, { icon: css, name: 'CSS' }, { icon: js, name: 'JavaScript' }],
       reportLink: "",
     },
-    githubLink: "http://github.com/dmitry-pgb",
+    githubLink: "https://github.com/0xNaokiDev",
     websiteLink: "https://quizwhiz.example.com",
   },
   emd: {
@@ -132,7 +132,7 @@ It allows users to create and deploy their own meme tokens with minimal technica
       techStack: [{ icon: react, name: 'React' }, { icon: tailwind, name: 'Tailwind CSS' }, { icon: html, name: 'HTML' }, { icon: css, name: 'CSS' }, { icon: js, name: 'JavaScript' }],
       reportLink: "",
     },
-    githubLink: "http://github.com/dmitry-pgb",
+    githubLink: "https://github.com/0xNaokiDev",
     websiteLink: "https://emedicine.example.com",
   },
   algo: {
@@ -145,7 +145,7 @@ It allows users to create and deploy their own meme tokens with minimal technica
       techStack: [{ icon: cpp, name: 'C++' }],
       reportLink: "",
     },
-    githubLink: "http://github.com/dmitry-pgb",
+    githubLink: "https://github.com/0xNaokiDev",
     websiteLink: "", // No website for CMD tool
   },
   ftc: {
@@ -158,7 +158,7 @@ It allows users to create and deploy their own meme tokens with minimal technica
       techStack: [{ icon: html, name: 'HTML' }, { icon: css, name: 'CSS' }, { icon: js, name: 'JavaScript' }],
       reportLink: "",
     },
-    githubLink: "http://github.com/dmitry-pgb",
+    githubLink: "https://github.com/0xNaokiDev",
     websiteLink: "https://flipthecard.example.com",
   },
   tesla: {
@@ -171,7 +171,7 @@ It allows users to create and deploy their own meme tokens with minimal technica
       techStack: [{ icon: html, name: 'HTML' }, { icon: css, name: 'CSS' }, { icon: js, name: 'JavaScript' }],
       reportLink: "",
     },
-    githubLink: "http://github.com/dmitry-pgb",
+    githubLink: "https://github.com/0xNaokiDev",
     websiteLink: "https://tesla-clone.example.com",
   },
 };
