@@ -99,7 +99,7 @@ export const HeroSect = () => {
                 whileInView={{ opacity: 1, y: 0 }}
                 transition={{ duration: 1, delay: 0.2 }}
                 className=""
-                href="https://github.com/dmitry-pgb"
+                href="https://github.com/0xNaokiDev"
                 target="_blank"
               >
                 <img
