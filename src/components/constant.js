@@ -28,6 +28,7 @@ import dappLocker from "../assets/images/projectImages/new1.png";
 import towns from "../assets/images/projectImages/new2.png";
 import sunpump from "../assets/images/projectImages/new3.png";
 import swoop from "../assets/images/projectImages/new4.png";
+import velar from "../assets/images/projectImages/new5.png";
 import cliniclink from "../assets/images/projectImages/project12.png";
 import arisescholar from "../assets/images/projectImages/project13.png";
 import insightify from "../assets/images/projectImages/project11.png";
@@ -61,7 +62,7 @@ export const Projects = {
     insights: {
       desc: `Towns Protocol is a decentralised communication protocol designed for real-time group chat / community spaces ("Spaces") that are ownable, programmable, and on-chain.`,
       category: "Healthcare, Full-Stack Web Application",
-      techStack: [{ icon: md, name: 'MongoDB' }, { icon: node, name: 'Node.js' }, { icon: react, name: 'React' }, { icon: tailwind, name: 'Tailwind CSS' }, { icon: js, name: 'JavaScript' }],
+      techStack: [{ icon: solidity, name: 'solidity' }, { icon: node, name: 'Node.js' }, { icon: react, name: 'React' }, { icon: tailwind, name: 'Tailwind CSS' }, { icon: js, name: 'JavaScript' }],
       reportLink: "", // add report link if available
     },
     githubLink: "https://github.com/0xNaokiDev",
@@ -75,7 +76,7 @@ export const Projects = {
       desc: `SunPump is a meme-coin launchpad platform built on the TRON network. 
 It allows users to create and deploy their own meme tokens with minimal technical steps.`,
       category: "AI, NLP, React Native, Mobile App",
-      techStack: [{ icon: react, name: 'React' }, { icon: tailwind, name: 'Tailwind CSS' }, { icon: py, name: 'Python' }, { icon: django, name: 'Django' }, { icon: ml, name: 'Machine Learning' }],
+      techStack: [{ icon: rust, name: 'Rust' }, { icon: next, name: 'Next.js' }, { icon: node, name: 'Node.js' }, { icon: ipfs, name: 'IPFS' }, { icon: fastapi, name: 'FastAPI' }],
       reportLink: "",
     },
     githubLink: "https://github.com/0xNaokiDev",
@@ -88,26 +89,24 @@ It allows users to create and deploy their own meme tokens with minimal technica
     insights: {
       desc: `Swoop Exchange describes itself as a "Meta-DEX and Bridge Aggregator" meaning it aggregates many decentralized exchange (DEX) aggregators and cross-chain bridges into one interface`,
       category: "Education, AI, Web Application",
-      techStack: [{ icon: react, name: 'React' }, { icon: tailwind, name: 'Tailwind CSS' }, { icon: django, name: 'Django' }, { icon: py, name: 'Python' }],
+      techStack: [{ icon: solidity, name: 'Solidity' }, { icon: next, name: 'Next.js' }, { icon: node, name: 'Node.js' }, { icon: md, name: 'MongoDB' }, { icon: fastapi, name: 'FastAPI' }],
       reportLink: "", // add if you have a report or demo link
     },
     githubLink: "https://github.com/0xNaokiDev",
     websiteLink: "https://swoop.exchange/",
   },
   MetaShield: {
-    image: metashield,
-    title: "MetaShield",
+    image: velar,
+    title: "Velar",
     subTitle: "AI-Powered Sensitive Document Classification",
     insights: {
-      desc: `MetaShield is an AI-powered solution that classifies documents as Sensitive (Y) or Non-Sensitive (N)
-                  using only metadata—no content analysis required! It enhances security and compliance with regulations
-                  like GDPR, HIPAA, and DPDP by automating document classification.`,
+      desc: `Velar is a decentralized finance(DeFi) protocol built on Bitcoin and various Bitcoin Layer-2(L2) scaling solutions, designed to bring advanced DeFi products like trading, liquidity pools, staking, leveraged derivatives and launchpad tools to the Bitcoin ecosystem. Its main objective is to leverage Bitcoin's security and decentralization while enabling smart contract like financial features that traditionally existed more on blockchains like Ethereum.`,
       category: "Cybersecurity, AI/ML, Web Application",
-      techStack: [{ icon: py, name: 'Python' }, { icon: django, name: 'Django' }, { icon: react, name: 'React' }, { icon: tailwind, name: 'Tailwind CSS' }, { icon: ml, name: 'Machine Learning' }],
+      techStack: [{ icon:  solidity, name: 'Solidity' }, { icon: next, name: 'Next.js' }, { icon: node, name: 'Node.js' }, { icon: haskell, name: 'haskell' }, { icon: foundry, name: 'Foundry' }, { icon: md, name: 'MongoDB' }],
       reportLink: "",
     },
     githubLink: "https://github.com/0xNaokiDev",
-    websiteLink: "https://metashield.example.com",
+    websiteLink: "https://velar.com/",
   },
   qzwz: {
     image: qz,
